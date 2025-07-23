@@ -31,4 +31,9 @@ This project utilizes the `tmdb_5000_movies.csv` dataset and maps each movie's d
 ---
 
 ## 📁 Project Structure
+├── rec_app.py # Main Streamlit app
+├── sdg_mapping.py # SDG tagging logic for preprocessing
+├── tmdb_5000_movies.csv # Movie dataset from TMDb
+├── requirements.txt # List of dependencies
+└── README.md # Project documentation
 
